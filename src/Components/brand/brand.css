@@ -1,0 +1,17 @@
+.img-cc {
+    display: flex;
+    align-items: center;
+  }
+  
+img{
+    margin-left: -5%;
+    margin-top: 6%;
+    float: left;
+}
+
+h2{
+    font-size: 90px;
+    margin-left: 10px;
+    color: black;
+    
+}

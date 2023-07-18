@@ -1,0 +1,15 @@
+.ele{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ele1{
+    
+    height: 500px;
+    width: auto;
+}
+
+p{
+    font-size: 60px;
+}
+

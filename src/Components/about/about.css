@@ -1,0 +1,12 @@
+
+
+.a11 {
+    background-color: black;
+    color: white;
+  }
+  
+
+.about-img{
+  display: flex;
+  align-items: center;
+}
